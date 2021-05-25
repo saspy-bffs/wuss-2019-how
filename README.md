@@ -2,15 +2,15 @@
 
 # Everything is better with friends: Executing SAS code in Python scripts with SASPy
 
-### Materials from a Hands-on Workshop at [Western Users of SAS Software](https://www.wuss.org/) in Seattle, Washington, on September 5, 2019.
+### Materials from a Hands-on Workshop at [Western Users of SAS Software](https://wuss19.wuss.org/) in Seattle, Washington, on September 5, 2019.
 
 Materials provided:
 
-- Workshop [paper](WUSS2019-HOW-Everything_Is_Better_With_Friends-paper.pdf) and [slides](WUSS2019-HOW-Everything_Is_Better_With_Friends-slides.pdf)
+- Workshop [paper](Paper-WUSS2019-HOW-Everything_Is_Better_With_Friends.pdf) and [slides](Slides-WUSS2019-HOW-Everything_Is_Better_With_Friends.pdf)
 
-- Workshop examples in both [Jupyter Notebook](WUSS2019-HOW-Everything_Is_Better_With_Friends-examples.ipynb) and [Python script](WUSS2019-HOW-Everything_Is_Better_With_Friends-examples.py) format
+- Workshop examples in both [Jupyter Notebook](examples/Examples-WUSS2019-HOW-Everything_Is_Better_With_Friends.ipynb) and [Python script](examples/Examples-WUSS2019-HOW-Everything_Is_Better_With_Friends.py) format
 
-- [Instructions](WUSS2019-HOW-Everything_Is_Better_With_Friends-handout.pdf) for replicating Workshop examples/demos
+- [Instructions](Handout-WUSS2019-HOW-Everything_Is_Better_With_Friends.pdf) for replicating Workshop examples/demos
 
 All development was done under Windows 10 with Python 3.7 and SAS 9.4 locally installed. Any deviation from this setup might require modifications to example code.
 
